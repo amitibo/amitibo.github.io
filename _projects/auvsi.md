@@ -6,12 +6,12 @@ header:
   teaser: /assets/images/athene-th.jpg
 ---
 
-During my PhD I participated in the [Association for Unmanned Vehicle Systems International
+During my Ph.D. I participated in the [Association for Unmanned Vehicle Systems International
 Student Unmanned Aerial Systems Competition](http://www.auvsi-suas.org/)
-(AUVSI SUAS Competition) in the years 2015 and 2016. Together with an elite team of undergraduate students from the
-Electrical Engineering (EE) faculty we developed the payload of an unmanned drone. The drone itself was built in the Aerospace Engineering
-(AE) faculty. The task of the EE team was to develop, build and demonstrate an optical payload capable of capturing and
-transmitting high definition images from the drone to the ground, a ground based system that enables manual scanning of
+(AUVSI SUAS Competition) in the years 2015 and 2016. I led a team of very talented undergraduate students from the
+Electrical Engineering (EE) faculty. Together we developed the payload of an unmanned drone (the drone itself was built in the Aerospace Engineering
+(AE) faculty). The task of the EE team was to develop, build and demonstrate an optical payload capable of capturing and
+transmitting high definition images from the drone to the ground, a ground-based system that enables manual scanning of
 the captured images for targets and automatic target detection algorithm.
 
 Below is the Proof of Flight clip produced by the 2016 Technion team, demonstrating the capabilites of our drone. The
