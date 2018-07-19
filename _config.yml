@@ -279,6 +279,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      #permalink: /:categories/:year/:month/:day/:title/
 
   # _research
   - scope:
