@@ -1,11 +1,10 @@
 ---
-title: Research
+title: Projects 
 layout: collection
-permalink: /research/
-collection: research
+permalink: /projects/
+collection: projects
 entries_layout: grid
 classes: wide
 ---
 
 Following is a list of projects I did or took part of.
-
