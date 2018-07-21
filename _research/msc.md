@@ -12,18 +12,25 @@ was [Foveated](https://en.wikipedia.org/wiki/Fovea_centralis) Video Extrapolatio
 
 Video extrapolation is the task of extending a video beyond its original field
 of view. Extrapolating video in a manner that is consistent with the original
-video and visually pleasing is difficult. In my thesis we aim at very wide video extrapolation which increases the complexity of the task. Some video extrapolation methods simplify the task by using a rough color extrapolation. A recent approach focuses on artifact avoidance and run time reduction using foveated video extrapolation, but fails to preserve the structure of the scene. This work introduces a multi-scale method which combines a coarse to fine approach with foveated video extrapolation. Foveated video extrapolation reduces the effective number of pixels that need to be extrapolated, making the extrapolation less time consuming and less prone to artifacts. The coarse to fine approach better preserves the structure of the scene while preserving finer details near the domain of the input video. The combined method gains improvement both visually and in processing time. We further study the incorporation of Mosaicing and other state of the art completion algorithms into our framework. We discuss their advantages and shortcomings.
+video and visually pleasing is difficult. In my thesis we aim at very wide video extrapolation which increases the complexity of the task. We introduced a
+multi-scale method which combines a coarse to fine approach with foveated video
+extrapolation. Foveated video extrapolation reduces the effective number of
+pixels that need to be extrapolated, making the extrapolation less time
+consuming and less prone to artifacts. The coarse to fine approach better
+preserves the structure of the scene while preserving finer details near the
+domain of the input video. The combined method gains improvement both visually
+and in processing time.
 
-<figure>
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/w1UF52HzG1o?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</figure>
+The following clip demonstrates some results of using my video extraplation
+algorithm (orignal clips taken from the
+“[Human Actions and Scenes Dataset](http://www.irisa.fr/vista/actions/hollywood2/)”):
 
 <figure>
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/VNGamhz38l4?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </figure>
 
 Here is a video of my talk at the International Conference on Computational
-Photography 2011.
+Photography (ICCP) 2011:
 
 <figure>
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/sLQXZOTI7BU?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
