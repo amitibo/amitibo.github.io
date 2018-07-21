@@ -1,12 +1,12 @@
 ---
-title: PhD 
+title: PhD
 excerpt: "Lightfield Analysis and Recovery of the Atmosphere."
 header:
-  image: /assets/images/network_camera-banner.jpg
-  teaser: /assets/images/network_camera-th.jpg
+  image: /assets/images/new_camera-banner.jpg
+  teaser: /assets/images/new_camera-th.jpg
 ---
 
-I completed my PhD at the Electrical Engineering faculty at the Technion, Israel Institute of Technology. 
+I completed my PhD at the Electrical Engineering faculty at the Technion, Israel Institute of Technology.
 
 <figure>
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/1oQfLFGicj8?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -36,4 +36,3 @@ I completed my PhD at the Electrical Engineering faculty at the Technion, Israel
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Photo from Unsplash.</figcaption>
 </figure>
-

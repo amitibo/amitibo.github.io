@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Amit Aides"
   avatar           : "/assets/images/amit.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Vision Researcher."
+  bio              : "Computer Vision Researcher"
   location         : "Haifa, Israel"
   email            :
   uri              :
@@ -306,4 +306,3 @@ collections:
   projects:
      output: true
      permalink: /:collection/:path/
-
