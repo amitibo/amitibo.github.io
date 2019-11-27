@@ -306,3 +306,5 @@ collections:
   projects:
      output: true
      permalink: /:collection/:path/
+
+theme: jekyll-theme-cayman
