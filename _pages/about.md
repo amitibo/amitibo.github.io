@@ -12,8 +12,7 @@ header:
 
 ---
 
-Hi! My name is Amit Aides, a computer vision researcher at IBM, where I study
-deep-learning for tasks like object detection and audio-visual algorithms.
+Hi! My name is Amit Aides, a computer vision researcher at Google.
 I like learning new things, working with people and building complex systems
 and machines. Luckily, during my Ph.D. studies I had the opportunity to combine
 most of these preferences, both in my research and in projects I took part in. 
