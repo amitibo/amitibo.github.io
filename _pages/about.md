@@ -12,7 +12,7 @@ header:
 
 ---
 
-Hi! My name is Amit Aides, a computer vision researcher at Google.
+Hi! My name is Amit Aides, and I work at Google developing computer vision algorithms.
 I like learning new things, working with people and building complex systems
 and machines. Luckily, during my Ph.D. studies I had the opportunity to combine
 most of these preferences, both in my research and in projects I took part in. 
